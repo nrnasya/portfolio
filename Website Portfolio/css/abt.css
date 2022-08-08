@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Background */
+html {    
+    background: url("../image/websiteallbg.png") no-repeat center fixed;     
+    background-size: cover;
+     }
+
+/* About Containers */
+
+#pic		        { margin-top: 25px;
+                      margin-left: 365px;
+                      float: left}
+
+#aboutme		    {font-size: 25px;
+	                 width: 430px; 
+                     margin-right: 470px;
+	                 margin-top: 5px;
+                     float: right;}    
+
+#aboutme p	        {color: white;
+                     font-size: 17px;
+                     text-align: justify} 
+
+#skill		        {font-size: 20px;
+	                 width: 200px;
+                     float: none;
+                     margin-left: 365px;
+                     margin-top: 300px}    
+
+#skill p	        {color: white;
+                     font-size: 17px;
+                      text-align: left} 
+
+

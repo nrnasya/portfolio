@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {    
+    background: url("../image/websiteallbg.png") no-repeat center fixed;     
+    background-size: cover;
+     }
+
+/* Contact Containers */
+
+#contact		    {;
+	                 width: 500px;
+                     float: none;
+                     margin-top: 90px;
+	                 margin-left: 560px;
+	                 
+                     border: 3px solid #FFFFFF;
+                     border-radius: 10px;
+                     padding: 20px}
+
+
+#contact p          {color: white;
+                     font-size: 20px;
+                      text-align: left;
+                       padding: 1px} 
+
+
+#account            {margin-top: 30px;
+	                 margin-left: 500px;
+	                 width: 180px;
+	
+	                 border: 3px solid #FFFFFF;
+                     border-radius: 10px;
+                     padding: 10px;}
+
+#account p          {color: white;
+                     font-size: 20px;
+                      text-align: left;
+                       padding-left: 5px;
+                      padding-top: 1px}
+
+
